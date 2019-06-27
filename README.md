@@ -1,6 +1,6 @@
 # [cncf](https://github.com/cncf)
 ## ci/cd
-- jenkins-x: https://jenkins-x.io/
+- [jenkins-x](https://jenkins-x.io/)
 
 ## [servless](https://landscape.cncf.io/format=serverless)
 - [spring-cloud-function](https://spring.io/projects/spring-cloud-function)
