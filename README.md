@@ -7,5 +7,5 @@
 - [fission](https://github.com/fission/fission)
 
 # [kubernetes](https://kubernetes.io/)
-- 证书管理: https://github.com/jetstack/cert-manager/
-- ingress: https://github.com/kubernetes/ingress-nginx
+- [cert-manager](https://github.com/jetstack/cert-manager/)
+- [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
